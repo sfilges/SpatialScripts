@@ -1,0 +1,15 @@
+[project]
+name = "SpatialScripts"
+version = "0.0.1"
+requires-python = ">= 3.14"
+dependencies = [
+    "numpy",
+    "pandas",
+    "spatialdata",
+    "spatialdata_io",
+    "rioxarray",
+    "scanpy",
+    "squidpy",
+    "infercnvpy",
+    "ipykernel"
+]
